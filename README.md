@@ -1,2 +1,0 @@
-# bumblebee
-Created with CodeSandbox
